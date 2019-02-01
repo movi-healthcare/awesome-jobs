@@ -7,5 +7,7 @@ We're looking to grow our team...let's do this!  Initially we're hiring devs, bu
 
 [Mezzo Software Engineer](http://b.link/movi-github-mezzo): Mid-level aka intermediate is also totes corporate...and Mezzo just sounds fancy. We want someone who plans on advancing quickly, with a desire to become a Killer Software Engineer.
 
+If you think you're above these...we're happy to entertain hiring, uh, higher than we were planning
+
 Send resumes to jobs@movihealthcare.com
 
