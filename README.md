@@ -1,6 +1,6 @@
 # awesome-jobs
 
-We're looking to grow our team...let's do this!
+We're looking to grow our team...let's do this!  Initially we're hiring devs, but will have operations and support openings in the near future.
 
 
 [Pioneer Software Engineer](http://b.link/movi-github-pioneer): Entry-level is too corporate and isn't what we're seeking....we're looking for newer-to-development but driven, can-do peeples to help us both grow together.
