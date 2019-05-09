@@ -1,5 +1,7 @@
 # awesome-jobs
 
+Updated: 5/9/2019
+
 We're continuing to grow our team and have solidied funding so runway is not a worry.   We've already hired a few devs but still are looking to fill out that team.  Ops and support openings will be posted in the near future!
 
 
