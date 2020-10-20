@@ -1,15 +1,17 @@
 # awesome-jobs
 
-Updated: 8/6/2019
+Updated: 10/16/2020
 
-We're continuing to grow our team and have solidied funding so runway is not a worry.   We've already hired a few devs but still are looking to fill out that team.  Ops and support openings will be posted in the near future!
+Exciting things are happening here at movi.  Our platform has been validated as an ecosystem with value add to ALL participants in the business process.  This translates into expanding our current offerings while also creating new ones.
+
+We're looking to hire all levels of developers so don't hesitate to submit your resume if a job description below does not match your experience to the :tea
 
 
-[Mezzo Software Engineer](http://b.link/movi-github-mezzo): Mid-level aka intermediate is totes corporate...and Mezzo just sounds fancy. We want someone who plans on advancing quickly, with a desire to become a Killer Software Engineer.
+[Team Player](http://b.link/movi-github-team-player): Mid-level aka intermediate is passé...and we really don't want to put someone in a box. We want someone who plans on advancing quickly and help the greater good of the team as you grow.
 
-[Pioneer Software Engineer](http://b.link/movi-github-pioneer): Entry-level is too corporate and isn't what we're seeking....we're looking for newer-to-development but driven, can-do peeples to help us both grow together.
+[Quality Team Player](http://b.link/movi-github-quality-team-player): QA Engineer is too QA-y and isn't exactly what we're seeking....we're looking for someone who likes the Quality Assurance aspects of software development, particularly automated testing but can also participate in other areas of the development cycle.  We're small and it's all hands on deck!
 
-If you think you're above these...we're happy to entertain hiring, uh, higher than we were planning
+If you think you don't match these criteria but are interesting in all things movi...we're happy to entertain hiring all levels/areas of skill.
 
 Send resumes to jobs@movihealthcare.com
 
