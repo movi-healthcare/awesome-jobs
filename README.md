@@ -1,6 +1,6 @@
 # awesome-jobs
 
-Updated: 10/16/2020
+Updated: 10/20/2020
 
 Exciting things are happening here at movi.  Our platform has been validated as an ecosystem with value add to ALL participants in the business process.  This translates into expanding our current offerings while also creating new ones.
 
