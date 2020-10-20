@@ -17,3 +17,5 @@ If you think you don't match these criteria but are interesting in all things mo
 
 Send resumes to jobs@movihealthcare.com
 
+\* This is written from the context of a non-pandemic environment...hopefully we’re out of this soon enough and will be high-fivin’ at the office!
+
